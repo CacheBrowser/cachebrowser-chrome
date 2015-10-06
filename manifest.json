@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "CacheBrowser",
+  "description": "CacheBrowser chrome plugin",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images/icon_inactive.png",
+    "default_popup": "main.html"
+  },
+  "permissions": [
+    "activeTab",
+    "nativeMessaging"
+  ]
+}

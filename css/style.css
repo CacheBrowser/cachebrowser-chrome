@@ -1,0 +1,58 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  background-color: rgba(230,230,230,1);
+}
+
+.container {
+  width: 250px;
+  margin: auto;
+  background-color: rgba(230,230,230,1);
+}
+
+.spinner-container {
+  margin: auto;
+  width: 100px;
+  height: 100px;
+  margin-top: 20px;
+  /*background-color: rgba(200,100,100,0.5);*/
+}
+
+.whirly-loader {
+  margin: auto;
+  margin-left: 40px;
+  margin-top: 40px;
+}
+
+.info {
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.info h1, h2 {
+  margin-bottom: 15px;
+}
+
+.info a:hover {
+  color: rgb(115, 115, 115);
+  cursor: pointer;
+}
+
+
+.splitter {
+  margin: auto;
+  height: 2px;
+  width: 90%;
+}
+
+.red.splitter {
+  background-color: rgb(180, 120, 120);
+}
+
+h1, h2, h3, h4 {
+  color: rgb(85, 85, 85);
+  font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: bold;
+}
