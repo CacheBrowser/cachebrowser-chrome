@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "CacheBrowser",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "CacheBrowser Chrome Extension",
+    "description": "The description of the application"
+  }
+}
